@@ -119,4 +119,9 @@ img {
         text-align: center;
 
     }
+      .attribution{
+        position:fixed;
+        /* left: 0; */
+        bottom: 5px;
+    }
 }
